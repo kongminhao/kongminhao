@@ -3,7 +3,7 @@
 </p>
 
 <h3>Why, hello there.</h3>
-Here's my `Manifest.toml`:
+Here's my `Manifest.toml` :
 
 ```toml
 
@@ -25,6 +25,7 @@ interests = [
   'full-stack',
   'linux',
   'open-source',
+  'cyber-security',
   'network',
 ]
 programming-languages = [
