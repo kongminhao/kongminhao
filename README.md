@@ -13,9 +13,7 @@ city = 'Beijing, China'
 email = 'minhao.kong@gmail.com'
 
 [professional]
-currently-employed = true
-title = 'Software Development Engineer'
-employer = 'Chaitin tech.'
+currently-employed = false
 
 [bio]
 categories = [
